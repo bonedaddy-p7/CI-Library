@@ -12,5 +12,8 @@ namespace CILib
 
         public string GiveMeAString()
         { return "A STRING"; }
+
+        public string GimmeADifferentString()
+        { return "Naw man, one's enough for you"; }
     }
 }
