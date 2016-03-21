@@ -9,5 +9,8 @@ namespace CILib
     {
         public string GetNowDateTimeString()
         { return DateTime.Now.ToString(); }
+
+        public string GiveMeAString()
+        { return "A STRING"; }
     }
 }
