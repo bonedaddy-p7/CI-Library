@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CILib">
-      <HintPath>..\bin\Debug\CILib.dll</HintPath>
+      <HintPath>..\libs\CILib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
