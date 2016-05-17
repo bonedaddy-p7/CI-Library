@@ -25,7 +25,7 @@
     <build-triggers />
     <artifact-dependencies>
       <dependency sourceBuildTypeId="CiLibrary_Build" cleanDestination="false">
-        <revisionRule name="sameChainOrLastFinished" revision="latest.sameChainOrLastFinished" />
+        <revisionRule name="lastSuccessful" revision="latest.lastSuccessful" />
         <artifact sourcePath="CILib.dll=&gt;libs\" />
       </dependency>
     </artifact-dependencies>
