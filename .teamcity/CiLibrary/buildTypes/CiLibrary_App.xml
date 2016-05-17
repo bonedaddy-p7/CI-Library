@@ -4,7 +4,20 @@
   <description />
   <settings>
     <parameters />
-    <build-runners />
+    <build-runners>
+      <runner id="RUNNER_28" name="" type="VS.Solution">
+        <parameters>
+          <param name="build-file-path" value="app/app.csproj" />
+          <param name="msbuild.prop.Configuration" value="Release" />
+          <param name="msbuild_version" value="14.0" />
+          <param name="run-platform" value="x86" />
+          <param name="targets" value="Rebuild" />
+          <param name="teamcity.step.mode" value="default" />
+          <param name="toolsVersion" value="14.0" />
+          <param name="vs.version" value="vs2015" />
+        </parameters>
+      </runner>
+    </build-runners>
     <vcs-settings>
       <vcs-entry-ref root-id="CiLibrary_HttpsGithubComBonedaddyP7ciLibraryGitRefsHeadsMaster" />
     </vcs-settings>
