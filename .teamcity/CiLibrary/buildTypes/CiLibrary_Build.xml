@@ -7,6 +7,9 @@
       <option name="allowExternalStatus" value="true" />
       <option name="artifactRules" value="bin\Release =&gt; \" />
     </options>
+    <disabled-settings>
+      <setting-ref ref="vcsTrigger" />
+    </disabled-settings>
     <parameters />
     <build-runners>
       <runner id="RUNNER_2" name="" type="jb.nuget.installer">
