@@ -3,9 +3,6 @@
   <name>app</name>
   <description />
   <settings>
-    <options>
-      <option name="cleanBuild" value="true" />
-    </options>
     <parameters />
     <build-runners>
       <runner id="RUNNER_28" name="" type="VS.Solution">
