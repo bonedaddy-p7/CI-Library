@@ -27,7 +27,7 @@
     <requirements />
     <build-triggers />
     <artifact-dependencies>
-      <dependency sourceBuildTypeId="CiLibrary_Build" cleanDestination="true">
+      <dependency sourceBuildTypeId="CiLibrary_Build" cleanDestination="false">
         <revisionRule name="lastSuccessful" revision="latest.lastSuccessful" />
         <artifact sourcePath="CILib.dll&#xD;&#xA;CILib.pdb" />
       </dependency>
