@@ -1,0 +1,9 @@
+D:\Desktop\CI-Library\Tests\bin\Debug\Tests.dll
+D:\Desktop\CI-Library\Tests\bin\Debug\Tests.pdb
+D:\Desktop\CI-Library\Tests\bin\Debug\CILib.dll
+D:\Desktop\CI-Library\Tests\bin\Debug\nunit.framework.dll
+D:\Desktop\CI-Library\Tests\bin\Debug\CILib.pdb
+D:\Desktop\CI-Library\Tests\bin\Debug\nunit.framework.xml
+D:\Desktop\CI-Library\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\Desktop\CI-Library\Tests\obj\Debug\Tests.dll
+D:\Desktop\CI-Library\Tests\obj\Debug\Tests.pdb

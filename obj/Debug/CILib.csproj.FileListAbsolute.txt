@@ -1,0 +1,5 @@
+D:\Desktop\CI-Library\bin\Debug\CILib.dll
+D:\Desktop\CI-Library\bin\Debug\CILib.pdb
+D:\Desktop\CI-Library\obj\Debug\CILib.csprojResolveAssemblyReference.cache
+D:\Desktop\CI-Library\obj\Debug\CILib.dll
+D:\Desktop\CI-Library\obj\Debug\CILib.pdb
